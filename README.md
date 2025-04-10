@@ -2,13 +2,13 @@
 
 I`m Copper.
 
-🔭 I’m currently working on a ad blocker
+- 🔭 I’m currently working on a ad blocker
 
-🌱 I’m currently learning HTML, javascript, and batch.
+- 🌱 I’m currently learning HTML, javascript, and batch.
 
-😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him
 
-⚡ Fun fact: I know lua
+- ⚡ I know lua
 
 <!--
 **Copper90/Copper90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
