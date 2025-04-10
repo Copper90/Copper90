@@ -2,6 +2,7 @@
 
 I`m Copper.
 
+## Here are some things about me.
 - 🔭 I’m currently working on a ad blocker
 
 - 🌱 I’m currently learning HTML, javascript, and batch.
