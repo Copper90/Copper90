@@ -1,25 +1,24 @@
-## Hello! 👋
+# Hey there! 👋 I'm Copper
 
-I`m Copper.
+Welcome to my profile! I'm a developer passionate about learning and building cool things.
 
-## Here are some things about me.
-- 🔭 I’m currently being an idiot
+## 🚀 About Me
+- 🔭 Currently exploring web development and scripting
+- 🌱 Learning **HTML**, **JavaScript**, and **Batch** scripting
+- 💻 Building projects and expanding my skillset
+- 😄 **Pronouns**: He/Him
 
-- 🌱 I’m currently learning HTML, javascript, and batch.
+## 📚 Technologies I'm Learning
+- **Frontend**: HTML, JavaScript
+- **Scripting**: Batch
+- And more to come! 🚀
 
-- 😄 Pronouns: He/Him
+## 🎯 Goals
+I'm focused on building practical projects and mastering the fundamentals of web development. Every day is an opportunity to learn something new!
 
-<!--
-**Copper90/Copper90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Let's Connect
+Feel free to check out my repositories to see what I'm working on. Feel free to reach out if you have any questions or want to collaborate!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Thanks for stopping by my profile!* ✨
