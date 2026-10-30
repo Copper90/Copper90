@@ -11,5 +11,5 @@ Welcome to my profile! I'm a developer passionate about learning and building co
 ## Goals
 I'm trying to shove computers into wherever it fits
 
-## 📫 Let's Connect
+##  Let's Connect
 Uhh maybe make a issue to communicate I may or may not reply
